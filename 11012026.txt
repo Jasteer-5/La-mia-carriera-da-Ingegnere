@@ -1,2 +1,11 @@
 11/01/2026
-Questo è il mio primo "foglio documentativo" riguardo la mia carriera da ingegnere. Attualmente ho 14 anni e oggi stesso ho iniziato a lavorare al mio primo progetto vero e proprio: un orologio smart. Per ora è dotato di un sistema di accensione spegnimento, orologio analogico + a testo, schermo oled e buzzer con un arduino mega. Per la programmazione principale mi faccio aiutare anche se sono in grado di modificarla in caso ci sono errori. Ho esperienza da un corso di robotica e uno di arduino. Ma per un 50% ho imparato da autodidatta. Questo è quanto per adesso. Porbabilmente ora andrò a riposarmi/fare i compiti ma potprebbe essere che lavorerò nuovamente all'orologio. In ogni caso questo è è quanto serve sapere per ora. Ciao, lettore del futuro ( spero che nel futuro ci siano stili frutiger aero, macchine volanti e che il trap se ne vada )
+
+Questo è il mio primo "foglio documentativo" riguardo la mia carriera da ingegnere.
+Attualmente ho 14 anni e oggi stesso ho iniziato a lavorare al mio primo progetto vero e proprio: un orologio smart.
+Per ora è dotato di un sistema di accensione spegnimento, orologio analogico + a testo, schermo oled e buzzer con un arduino mega. 
+Per la programmazione principale mi faccio aiutare anche se sono in grado di modificarla in caso ci sono errori. Ho esperienza da un corso di robotica e uno di arduino. 
+Ma per un 50% ho imparato da autodidatta. 
+Questo è quanto per adesso. 
+Porbabilmente ora andrò a riposarmi/fare i compiti ma potprebbe essere che lavorerò nuovamente all'orologio. 
+In ogni caso questo è è quanto serve sapere per ora. 
+Ciao, lettore del futuro ( spero che nel futuro ci siano stili frutiger aero, macchine volanti e che il trap se ne vada )
